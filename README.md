@@ -13,7 +13,7 @@ This is a single-page web application (SPA) for managing events in Colombia. Use
 - Dynamic routing with JavaScript
 - JSON Server for API simulation
 
-## 🛠 Technologies
+## Technologies
 
 - HTML5, CSS3, JavaScript (ES6)
 - JSON Server (fake backend)
