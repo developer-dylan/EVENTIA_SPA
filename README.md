@@ -51,15 +51,31 @@ Visit: [http://localhost:5173](http://localhost:5173)
 ## Project Structure
 
 ```
-public/
-  └── img/               # Images (e.g. logo)
-src/
-  ├── js/                # API and Auth logic
-  ├── views/             # All SPA views
-  └── router.js          # Simple SPA router
-db.json                  # Fake database
-index.html               # Main HTML
-style.css                # Custom styles
+DylanMarin270/
+├── public/
+│   └── img/
+│       └── logoeventia.webp
+├── src/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   ├── api.js
+│   │   ├── auth.js
+│   │   └── router.js
+│   └── views/
+│       ├── createEventView.js
+│       ├── dashboard.js
+│       ├── editEventView.js
+│       ├── landing.js
+│       ├── login.js
+│       ├── notFound.js
+│       └── register.js
+├── database/ (si usas JSON Server, va tu db.json aquí)
+├── index.html
+├── package.json
+├── package-lock.json
+├── LICENSE
+└── README.md
 ```
 
 ## Roles
