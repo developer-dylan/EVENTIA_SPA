@@ -78,7 +78,11 @@ The app adapts to:
 
 ## Author
 
-- Developed by [Your Name] @ Riwi 2025
+- Full Name Dylan Marin
+- Clan: Caiman
+- Email: marindylan762@gmail.com
+- Number Identification: 1044618270
+- Repository: https://github.com/developer-dylan/EVENTIA_SPA.git
 
 ---
 
