@@ -13,7 +13,7 @@ This is a single-page web application (SPA) for managing events in Colombia. Use
 - Dynamic routing with JavaScript
 - JSON Server for API simulation
 
-## Technologies
+## 🛠 Technologies
 
 - HTML5, CSS3, JavaScript (ES6)
 - JSON Server (fake backend)
@@ -23,34 +23,34 @@ This is a single-page web application (SPA) for managing events in Colombia. Use
 
 ### 1. Clone the repository
 
-bash
+```bash
 git clone https://github.com/developer-dylan/EVENTIA_SPA.git
 cd EVENTIA_SPA
-
+```
 
 ### 2. Install dependencies
 
-bash
+```bash
 npm install
-
+```
 
 ### 3. Start JSON Server
 
-bash
+```bash
 npx json-server --watch db.json --port 3000
-
+```
 
 ### 4. Start the development server
 
-bash
+```bash
 npm run dev
+```
 
-
-Visit: [http://localhost:5173]
+Visit: [http://localhost:5173](http://localhost:5173)
 
 ## Project Structure
 
-
+```
 public/
   └── img/               # Images (e.g. logo)
 src/
@@ -60,12 +60,12 @@ src/
 db.json                  # Fake database
 index.html               # Main HTML
 style.css                # Custom styles
-
+```
 
 ## Roles
 
-- *User*: Can register/login and join events
-- *Admin*: Can manage events and users
+- **User**: Can register/login and join events
+- **Admin**: Can manage events and users
 
 ## Responsive Design
 
@@ -78,9 +78,8 @@ The app adapts to:
 
 ## Author
 
-- Developed by Dylan Marin
-- Git: https://github.com/developer-dylan
-- Repository project: https://github.com/developer-dylan/EVENTIA_SPA.git
+- Developed by [Your Name] @ Riwi 2025
+
 ---
 
 > This is a demo project using fake data and not for production use.
