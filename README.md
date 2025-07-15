@@ -2,7 +2,7 @@
 
 This is a single-page web application (SPA) for managing events in Colombia. Users can register, log in, and sign up for events. Admin users can create, edit, and delete events, and also manage users.
 
-## 📦 Features
+## Features
 
 - User registration and login
 - Role-based access (user/admin)
@@ -19,13 +19,13 @@ This is a single-page web application (SPA) for managing events in Colombia. Use
 - JSON Server (fake backend)
 - Vite (development server)
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 ### 1. Clone the repository
 
 bash
-git clone https://github.com/your-username/eventia-app.git
-cd eventia-app
+git clone https://github.com/developer-dylan/EVENTIA_SPA.git
+cd EVENTIA_SPA
 
 
 ### 2. Install dependencies
@@ -78,8 +78,9 @@ The app adapts to:
 
 ## Author
 
-- Developed by [Your Name] @ Riwi 2025
-
+- Developed by Dylan Marin
+- Git: https://github.com/developer-dylan
+- Repository project: https://github.com/developer-dylan/EVENTIA_SPA.git
 ---
 
 > This is a demo project using fake data and not for production use.
